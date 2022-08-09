@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on ... Linux Operating System
+
 <img src="https://github.com/Infiniteranveer/Certificates/blob/main/certificate1.jpg">
